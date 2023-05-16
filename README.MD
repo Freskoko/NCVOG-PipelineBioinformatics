@@ -1,6 +1,6 @@
 # How to run:
 
-Change the name of NCVOG_NUMBER in step1.py to chnage which NCVOG is looked up
+Change the name of NCVOG_NUMBER in step1.py to change which NCVOG is looked up
 
 # Tree comparisons:
 
